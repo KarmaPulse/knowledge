@@ -235,5 +235,5 @@ Eso devolvera información sobre todos los nodos, si son maestros y quienes son 
 Listo ahora tenemos un cluster con Redis listo para ser probado, para usar Redis Cluster es necesario usar un cliente que lo permita para ello se puede consultar y buscar uno [aquí](http://redis.io/clients).
 
 ## Fuentes
-http://redis.io/topics/partitioning
-http://redis.io/topics/cluster-tutorial
+- http://redis.io/topics/partitioning
+- http://redis.io/topics/cluster-tutorial
